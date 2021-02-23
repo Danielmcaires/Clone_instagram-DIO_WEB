@@ -1,0 +1,4 @@
+C:\Users\Daniel\Documents\programação\Web\Tela_Instagram\obj\Debug\netcoreapp3.1\Tela_Instagram.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\programação\Web\Tela_Instagram\obj\Debug\netcoreapp3.1\Tela_Instagram.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\programação\Web\Tela_Instagram\obj\Debug\netcoreapp3.1\Tela_Instagram.AssemblyInfo.cs
+C:\Users\Daniel\Documents\programação\Web\Tela_Instagram\obj\Debug\netcoreapp3.1\Tela_Instagram.csproj.CoreCompileInputs.cache
